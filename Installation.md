@@ -69,3 +69,9 @@ This version will be automatically selected when a new session spawns. You can a
 
 sudo npm install -g angular-cli
 </p>
+
+<h3> create new project </h3>
+ng new first-app
+ng serve
+
+--> hit localhost:4200
